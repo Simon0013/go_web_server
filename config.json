@@ -1,0 +1,4 @@
+{
+	"Catalog": "./storage",
+	"ConnString": "user=postgres password=Bor29S01 dbname=testdb sslmode=disable"
+}
